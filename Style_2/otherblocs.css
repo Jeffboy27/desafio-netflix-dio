@@ -1,0 +1,28 @@
+.box-filme2{
+    margin-top: 2px;
+    object-fit:initial;
+    max-height:300px;
+    width:150%;
+    margin-right: 10px;
+    display:block
+
+}
+
+.box-filme2:hover{
+    transform:scale(1.10);
+}
+
+.largura{
+    max-height: 250px;
+}
+.largura:hover{
+    transform:scale(1.11);
+}
+
+.box-filme2{
+    color: white;
+    margin-left: 20px;
+}
+.sub-titulo{
+    margin-top: 2px;
+}
